@@ -19,6 +19,11 @@ Even though some ITD can be detected by popular variant callers such as Pindel a
 BAM files that were used in the paper are located in BAM directory.
 
 
+## Prerequisites
+
+ITDetect requires both Java 8 and Python 3 to properly executed.
+
+
 ## Installation
 
 ITDetect is released in a precompiled binary package. For installation, download the package ([ITDetect.tar.gz](https://github.com/cpmsnuh/ITDetect/blob/main/ITDetect.tar.gz)) and unzip/untar it.
