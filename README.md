@@ -187,7 +187,7 @@ If you have any questions, bugs to report, or suggestions, please send us an ema
 
 ## Download
 
-**Last Updated: 2021-04-12**
+**Last Updated: 2021-04-30**
 
 •	Entire Package: [ITDetect.tar.gz](https://github.com/cpmsnuh/ITDetect/blob/main/ITDetect.tar.gz)
 
