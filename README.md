@@ -210,14 +210,7 @@ If you have any questions, bugs to report, or suggestions, please send us an ema
 
 **Example Input Data**
 
-• 	Download WES example Data (FLT3 region BAM): [download site](https://github.com/cpmsnuh/ITDetect/tree/example_WES)
+• 	Download WES / Panel sequecing example Data (FLT3 region BAM): [download site](https://github.com/cpmsnuh/ITDetect/tree/main/BAM)
 	
 	
-	git clone https://github.com/cpmsnuh/ITDetect/ -b example_WES --single-branch <~/your_directory/example_WES>
-	
-
-• 	Download Panel-sequencing example Data (FLT3 region BAM): [download site](https://github.com/cpmsnuh/ITDetect/tree/example_Panel) 
-	
-	
-	git clone https://github.com/cpmsnuh/ITDetect/ -b example_Panel --single-branch <~/your_directory/example_Panel>
 	
