@@ -153,7 +153,8 @@ Insertion		Inserted bases between duplication
 Gene			Gene name (as in target gene file (-t))
 ```
 
-##Example
+
+## Example
 
 •	Command Example: S01_FLT3.bam
 
