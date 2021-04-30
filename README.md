@@ -176,6 +176,8 @@ If you have any questions, bugs to report, or suggestions, please send us an ema
 
 [Heejun Jang](mailto:starz77@snu.ac.kr)
 
+[sungyoung Lee](mailto:me@lsy.io)
+
 [Hongseok Yun](mailto:entropy.yun@gmail.com)
 
 
