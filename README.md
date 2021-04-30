@@ -102,6 +102,10 @@ python ITDetect.py \
 -p (--repeat)   minimum number of repeats in the region where ITD is called (default: 10)
 ```
 
+```
+-n (--ecnt)	filtering cutoff for another FLT3-ITD when more than one type of ITD is identified (default: 6)
+```
+
 > In repeat regions, false positive insertion/deletion (including ITD) is often called.
 
 > You can avoid it by filtering out candidate ITD in repeat regions.
