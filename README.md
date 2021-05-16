@@ -60,12 +60,6 @@ python ITDetect.py \
 
 •	The following parameters are mandatory.
 ```
--p (--path)	path to ITDetect
-```
-
-> path where you unzip ITDetect.tar.gz.
-
-```
 -b (--bam)	input BAM file
 ```
 
@@ -92,7 +86,12 @@ python ITDetect.py \
 > To generate .fai file from .fa file, you can use samtools 
 (e.g., samtools faidx hg19.fa)
 
-•	The followings parameters are optional.
+•	The following parameters are optional.
+```
+-p (--path)	path to ITDetect (default: .)
+```
+
+> path where you unzip ITDetect.tar.gz.
 
 ```
 -c (--rcnt)     minimum number of support reads for the ITD called (default: 3)
