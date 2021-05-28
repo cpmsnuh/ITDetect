@@ -22,6 +22,7 @@ BAM files that were used in the paper are located in BAM directory.
 ## Prerequisites
 
 ITDetect requires both Java 8 and Python 3 to properly executed.
+In default, ITDetect assumes the chromosomes are named with 'chr' prefix (i.e., chr1, chr2, ...).
 
 
 ## Installation
